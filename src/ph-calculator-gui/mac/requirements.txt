@@ -10,4 +10,4 @@ PyQt5-sip==12.7.0
 PyYAML==5.4
 requests==2.22.0
 shellescape==3.4.1
-urllib3==1.26.5
+urllib3==1.26.17
